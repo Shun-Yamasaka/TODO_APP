@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d04b0895-3e1a-4155-8b4f-c87b1691585d": {
+      "ProjectGuid": "d04b0895-3e1a-4155-8b4f-c87b1691585d",
+      "DisplayName": "TASKBoard",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
