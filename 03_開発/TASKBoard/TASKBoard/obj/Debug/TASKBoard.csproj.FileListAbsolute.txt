@@ -9,3 +9,8 @@ D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Debug\TASKBoard.csproj.Core
 D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Debug\TASKBoard.exe
 D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Debug\TASKBoard.pdb
 D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Debug\TASKBoard.Form1.resources
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Debug\TASKBoard.DOING_Control.resources
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Debug\TASKBoard.DONE_Control.resources
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Debug\TASKBoard.ParkingLot_Control.resources
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Debug\TASKBoard.TODO_Control.resources
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Debug\TASKBoard.MenuControl.resources
