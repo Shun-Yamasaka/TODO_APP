@@ -1,0 +1,16 @@
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\bin\Release\TASKBoard.exe.config
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\bin\Release\TASKBoard.exe
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\bin\Release\TASKBoard.pdb
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Release\TASKBoard.csproj.AssemblyReference.cache
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Release\TASKBoard.csproj.SuggestedBindingRedirects.cache
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Release\TASKBoard.DOING_Control.resources
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Release\TASKBoard.DONE_Control.resources
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Release\TASKBoard.Form1.resources
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Release\TASKBoard.MenuControl.resources
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Release\TASKBoard.ParkingLot_Control.resources
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Release\TASKBoard.Properties.Resources.resources
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Release\TASKBoard.TODO_Control.resources
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Release\TASKBoard.csproj.GenerateResource.cache
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Release\TASKBoard.csproj.CoreCompileInputs.cache
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Release\TASKBoard.exe
+D:\github\TODO_APP\03_開発\TASKBoard\TASKBoard\obj\Release\TASKBoard.pdb

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4o4zQvLuXDeZs+5b4g/vcG0/UkQnYqJP+5fF/TRMX3QFCWG/UxaqhtX8RzyTc7I+u7FOxyY69mkhL5KfR1Tdgw==",
+  "success": true,
+  "projectFilePath": "D:\\github\\TODO_APP\\03_開発\\DBSQLiteSample\\DBSQLiteSample\\DBSQLiteSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\118sy\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.3\\microsoft.data.sqlite.core.6.0.3.nupkg.sha512",
+    "C:\\Users\\118sy\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.7\\sqlitepclraw.bundle_e_sqlite3.2.0.7.nupkg.sha512",
+    "C:\\Users\\118sy\\.nuget\\packages\\sqlitepclraw.core\\2.0.7\\sqlitepclraw.core.2.0.7.nupkg.sha512",
+    "C:\\Users\\118sy\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.7\\sqlitepclraw.lib.e_sqlite3.2.0.7.nupkg.sha512",
+    "C:\\Users\\118sy\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.7\\sqlitepclraw.provider.e_sqlite3.2.0.7.nupkg.sha512",
+    "C:\\Users\\118sy\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

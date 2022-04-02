@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24afd55e-efb6-47e2-a5f1-78cc8b1a1507": {
+      "ProjectGuid": "24afd55e-efb6-47e2-a5f1-78cc8b1a1507",
+      "DisplayName": "DBSQLiteSample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
